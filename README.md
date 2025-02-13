@@ -1,4 +1,4 @@
-# desafio-logica-programação-javascript-2.
+# segundo-desafio-logica-programação-javascript-parte-2.
  Segundo desafio de logica de programção com Javascript.
 
 1- Pergunte ao usuário qual é o dia da semana. Se a resposta for "Sábado" ou "Domingo", mostre "Bom fim de semana!". Caso contrário, mostre "Boa semana!.
